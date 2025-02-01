@@ -1,6 +1,3 @@
-# 3D-Products
-We create high-quality, photorealistic 3D models for top brands like Amazon, Flipkart, Lowe’s, and DeLonghi, perfect for e-commerce, marketing, and animations.
-Professional 3D Product Modeling for Top Brands & E-Commerce Giants
 We specialize in high-quality 3D product modeling for some of the biggest names in the industry, including Amazon, Flipkart, Lowe’s, Orient, Crompton, and DeLonghi. Our work helps brands and retailers create stunning product visuals for e-commerce, marketing, and mechanical animations.
 
 What We Deliver:
